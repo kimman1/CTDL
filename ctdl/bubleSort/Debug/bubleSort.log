@@ -1,0 +1,3 @@
+﻿  InsertSort.cpp
+C:\Users\KimMan\Desktop\CTDL_TH_Lop\ctdl\bubleSort\InsertSort.cpp(4,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  bubleSort.vcxproj -> C:\Users\KimMan\Desktop\CTDL_TH_Lop\ctdl\Debug\bubleSort.exe
