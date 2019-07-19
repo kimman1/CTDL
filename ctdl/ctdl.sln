@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LienKetVong", "LienKetVong\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubleSort", "bubleSort\bubleSort.vcxproj", "{FBE7200D-71A0-4F1E-ACEE-2074D82C7FD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch_Tree", "BinarySearch_Tree\BinarySearch_Tree.vcxproj", "{1BD456F3-1404-4686-BB45-BD6293C7CD30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,14 @@ Global
 		{FBE7200D-71A0-4F1E-ACEE-2074D82C7FD2}.Release|Win32.Build.0 = Release|Win32
 		{FBE7200D-71A0-4F1E-ACEE-2074D82C7FD2}.Release|x64.ActiveCfg = Release|x64
 		{FBE7200D-71A0-4F1E-ACEE-2074D82C7FD2}.Release|x64.Build.0 = Release|x64
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Debug|Win32.Build.0 = Debug|Win32
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Debug|x64.ActiveCfg = Debug|x64
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Debug|x64.Build.0 = Debug|x64
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Release|Win32.ActiveCfg = Release|Win32
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Release|Win32.Build.0 = Release|Win32
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Release|x64.ActiveCfg = Release|x64
+		{1BD456F3-1404-4686-BB45-BD6293C7CD30}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
