@@ -78,6 +78,33 @@ void delete_node(node* t,int  x)
 
 	}
 }
+void out_LNR(node* p)
+{
+	if (p != NULL)
+	{
+		out_LNR(p->left);
+		cout << p->info;
+		out_LNR(p->right);
+	}
+}
+void out_LRN(node* p)
+{
+	if (p != NULL)
+	{
+		out_LRN(p->left);
+		out_LRN(p->right);
+		cout << p->info;
+	}
+}
+void out_NLR(node* p)
+{
+	if (p != NULL)
+	{
+		cout << p->info;
+		out_NLR(p->left);
+		out_NLR(p->right);
+	}
+}
 int menu()
 {
 	int choose = 0;
