@@ -1,3 +1,7 @@
-﻿  InsertSort.cpp
-C:\Users\KimMan\Desktop\CTDL_TH_Lop\ctdl\bubleSort\InsertSort.cpp(4,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
-  bubleSort.vcxproj -> C:\Users\KimMan\Desktop\CTDL_TH_Lop\ctdl\Debug\bubleSort.exe
+﻿  BubbleSort.cpp
+  InsertSort.cpp
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\bubleSort\InsertSort.cpp(4,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\bubleSort\InsertSort.cpp(14,6): error C2143:  syntax error: missing ';' before ')'
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\bubleSort\InsertSort.cpp(16,2): error C2143:  syntax error: missing ';' before 'for'
+  Generating Code...
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\bubleSort\InsertSort.cpp(16,2): error C2143:  syntax error: missing ')' before 'for'

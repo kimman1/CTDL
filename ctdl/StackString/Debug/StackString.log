@@ -1,0 +1,4 @@
+﻿  Stack_String.cpp
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\StackString\Stack_String.cpp(71,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\StackString\Stack_String.cpp(91,22): warning C4018:  '<=': signed/unsigned mismatch
+  StackString.vcxproj -> C:\Users\KimMan\Desktop\gitclone_CTDL\CTDL\ctdl\Debug\StackString.exe
