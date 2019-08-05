@@ -1,0 +1,22 @@
+﻿Build started 05/08/2019 4:14:30 PM.
+     1>Project "C:\Users\Admin\Desktop\clone\BSTRee\SinhVien_BSTree\SinhVien_BSTree.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SinhVien_BSTree.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SinhVien_BSTree.cpp
+         SinhVien_BSTree.cpp
+     1>c:\users\admin\desktop\clone\bstree\sinhvien_bstree\sinhvien_bstree.cpp(52): warning C4715: 'insert' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SinhVien_BSTree.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.lib" /MACHINE:X86 Debug\SinhVien_BSTree.obj
+         LINK : C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.exe not found or not built by the last incremental link; performing full link
+         SinhVien_BSTree.vcxproj -> C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Admin\Desktop\clone\BSTRee\Debug\SinhVien_BSTree.exe;#1" /manifest Debug\SinhVien_BSTree.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\SinhVien_BSTree.unsuccessfulbuild".
+         Touching "Debug\SinhVien_BSTree.lastbuildstate".
+     1>Done Building Project "C:\Users\Admin\Desktop\clone\BSTRee\SinhVien_BSTree\SinhVien_BSTree.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
